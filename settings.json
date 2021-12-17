@@ -3,7 +3,7 @@
     "anti_delete": false,
     "anti_call": true,
     "autorespon": false,
-    "user_register": true,
+    "user_register": false,
     "auto_welcome": true,
     "auto_leave": true,
 	"prefix": ".",
