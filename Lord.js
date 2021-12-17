@@ -107,7 +107,7 @@ let antitrol = true
 
 let hit_today = []
 let blocked = []
-let limitawal = "100" 
+let limitawal = "10" 
 let namabot = setting.botname
 let owner_name = setting.ownername
 let owner_number = setting.ownerNumber
@@ -116,7 +116,7 @@ let numbernye = "0"
 let simbolnya = "•"
 let petik = '```'
 let enter = '\n'
-let notnot = `NOTE:${enter}Jika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w`
+let notnot = `NOTE:${enter}jangan spam bot ya asu`
 let url_gif = setting.url_gif
 let public_mode = setting. public_mode
 let mlistmsg = false 
