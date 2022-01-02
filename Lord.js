@@ -238,7 +238,7 @@ module.exports = Zeeone = async (Zeeone, Ofc) => {
 		try {
 					pp_userb = await Zeeone.getProfilePicture(sender)
 				} catch {
-					pp_userb = 'https://i.ibb.co/VBn4BZp/2.jpg'
+					pp_userb = 'https://i.ibb.co/Drd6VRh/IMG-20220102-WA0039.png'
 				}
 			let pp_userz = await getBuffer(pp_userb)
 			try {
